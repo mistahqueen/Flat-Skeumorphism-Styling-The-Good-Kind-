@@ -1,0 +1,143 @@
+/*css different card styles to test*/
+
+
+/*
+
+1st.---------------------
+
+    background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    border-width: 2px;
+    border-bottom-color: #D3BFBF;
+    border-right-color: #D5C3C3;
+    border-left-color: rgba(255, 255, 255, 1);
+    border-top-color: rgba(255, 255, 255, 1);
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -1px -1px 5px 0px #dfdcdc;
+
+
+
+1st. end------------------------------
+=====================
+
+2nd start --------------------------
+
+    background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    border-width: 2px;
+    border-bottom-color: #ffffff;
+    border-right-color: #ffffff;
+    border-left-color: rgba(255, 255, 255, 1);
+    border-top-color: rgba(255, 255, 255, 1);
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -1px -1px 5px 0px #dfdcdc;
+2nd end ------------------------------------
+=============================================
+
+3rd. 'NEW' -----------------------------------------
+background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    border-width: 2px;
+    border-bottom-color: #D3BFBF;
+    border-right-color: #d5c3c300;
+    border-left-color: #FAF9F9;
+    border-top-color: rgb(247, 247, 247);
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset 1px 0px 20px 0px #d3bfbf38;
+    border-bottom-width: 4px;
+    border-left-width: 3px;
+
+3rd end--------------------------------------
+==============================
+
+4th start 'close' ------------------------------------
+
+    background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    border-width: 2px;
+    border-bottom-color: #D3BFBF;
+    border-right-color: #d5c3c300;
+    border-left-color: #FAF9F9;
+    border-top-color: #FFFFFF;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -4px -1px 10px 3px #c071711f;
+    border-bottom-width: 1.5px;
+    border-left-width: 3px;
+4th end------------------------------------
+============================================
+
+5th start 'evencloser'-------------------------
+
+background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    border-width: 2px;
+    border-bottom-color: #D3BFBF;
+    border-right-color: #d5c3c300;
+    border-left-color: #ff77770f;
+    border-top-color: #FFFFFF;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -11px -3px 20px 0.5px #ee5ba617;
+    border-bottom-width: 1.5px;
+    border-left-width: 3px;
+
+    5th end----------------------------------------
+    =============================================
+
+
+6th start 'eeeven closer'----------------------
+    background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+    
+    border-bottom-color: #D3BFBF;
+    border-right-color: #d5c3c300;
+    border-left-color: #ff00af0a;
+    border-top-color: #FFFFFF;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -11px -3px 20px 0.5px #ff3a9f0d;
+    border-bottom-width: 1.5px;
+    border-left-width: 1.55px;
+
+6th end ----------------------------------------
+===============================================
+
+
+7th styles for google search bar looks neat but needs more work DONT USE for the cards tho. 
+
+  background: #fff;
+    background-color: #fff;
+    border-radius: 7.55px;
+    border: solid;
+
+    border-bottom-color: #ecd8d86e;
+    border-right-color: #d5c3c300;
+    border-left-color: #ff00af00;
+    border-top-color: #900a6900;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset -4px 3px 20px 2px #ff3a9f0d;
+    border-bottom-width: 1.5px;
+    border-left-width: 1.55px;
+
+7th end----------------------------------------
+===============================================
+*/
+
+/*PLEASE DO NOT ANY OF THE 'COMMENTED STYLES' INSTEAD PUT YOUR IMPROVED VERSION BELOW HERE
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV*/
+
+/*PUT THE NUMBER OF THE STYLES THAT WAS EDITED AND IMPROVED UPON LIKE THIS. 
+EXAMPLE::
+
+6TH STYLE IMPROVED 
+   
+   styleName{
+
+      your improved version here.
+   }
+
+*/
